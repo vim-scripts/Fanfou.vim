@@ -1,0 +1,29 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3596
+
+The fanfou.vim plugin is a simple UNOFFICIAL client for Fanfou.com (饭否), it allows you
+to check timeline and update status via Vim.
+
+NOTE: It requires Vim to be compiled with Python bindings.
+
+
+This plugin defines four commands:
+
+    FanTimeline - View latest timeline from Fanfou in preview window
+    FanUpdate - Update status in command line
+    FanUpline - Send the line which is cursor on
+    FanRT - Retweet the line which is cursor on
+
+Default key mappings:
+
+    <leader>fft is mapped to FanTimeline,
+    <leader>ffu is mapped to FanUpdate,
+    <leader>ffs is mapped to FanUpline.
+    <leader>ffr is mapped to FanRT.
+
+See more help information in source code.
+
+
+Links:
+
+    * Github https://github.com/Vayn/Fanfou
+
