@@ -3,7 +3,8 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=3596
 The fanfou.vim plugin is a simple UNOFFICIAL client for Fanfou.com (饭否), it allows you
 to check timeline and update status via Vim.
 
-NOTE: It requires Vim to be compiled with Python bindings.
+NOTE: fanfou.vim requires Vim to be compiled with Python bindings. 
+              It needs Vim with Python3 bindings after v0.50.
 
 
 This plugin defines four commands:
